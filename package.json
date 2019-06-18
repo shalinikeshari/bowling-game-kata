@@ -1,0 +1,22 @@
+{
+  "name": "bowling-game-kata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine",
+    "start": "webpack-dev-server && webpack --config webpack.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab.res.sys.shared.fortis/CLTI/FrontEndStub/TestProjects/KATA/bowling-game-kata.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^4.34.0",
+    "webpack-cli": "^3.3.4",
+    "webpack-dev-server": "^3.7.1"
+  }
+}
